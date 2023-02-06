@@ -82,6 +82,7 @@ h2 {
 
 h3 {
      font-size: 18px;
+     color: white;
 }
 
 h4 {
@@ -326,7 +327,7 @@ button {
 /** banner section **/
 
 .banner_main {
-     background: url(../images/banner.jpg);
+     background: url(../images/home3.jpg);
      padding: 310px 0px 0px 0px;
      background-size: 100% 100%;
      background-repeat: no-repeat;
@@ -603,7 +604,7 @@ button {
 
 .we_do .we_box h3 {
      padding: 30px 0px 20px 0px;
-     color: #070101;
+     color: white;
      font-size: 25px;
      line-height: 30px;
      font-weight: bold;
@@ -614,6 +615,11 @@ button {
      font-size: 17px;
      color: #010103;
      line-height: 32px;
+     transition: ease-in all 0.5s;
+}
+
+.we_do .we_box li {
+     color: white;
      transition: ease-in all 0.5s;
 }
 
