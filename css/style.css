@@ -329,7 +329,7 @@ button {
 .banner_main {
      background: url(../images/home7.avif);
      padding: 310px 0px 0px 0px;
-     background-size: 100% 100%;
+     background-size: cover;
      background-repeat: no-repeat;
      min-height: 914px;
 }
